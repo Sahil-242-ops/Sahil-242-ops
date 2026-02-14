@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently learning **Cloud Technologies**
-- 💻 Strong in **Python & Backend Development**
+- 💻 Strong in **Python**
 - 🌱 Exploring **AWS & DevOps**
 - 🎯 Goal: Become a Certified Cloud Engineer
 - ⚡ Fun fact: I love solving logical problems
