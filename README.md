@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Sahil Bansal</h1>
+<h3 align="center">Problem Solver & Innovator 🚀</h3>
 
-<!--
-**Sahil-242-ops/Sahil-242-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+B.Tech CSE Student | AI & ML Enthusiast <br>
+Passionate about building innovative solutions using AI, ML & Cloud.
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://linkedin.com/in/yourlink">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/yourusername">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+</a>
+</p>
