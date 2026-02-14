@@ -52,13 +52,13 @@
 
 ---
 
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
-<a href=www.linkedin.com/in/sahil-sahil-118561320>
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
+<a href="https://www.linkedin.com/in/sahil-sahil-118561320" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Bansal-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+
