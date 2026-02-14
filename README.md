@@ -55,7 +55,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="www.linkedin.com/in/sahil-sahil-118561320">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:your-email@gmail.com">
