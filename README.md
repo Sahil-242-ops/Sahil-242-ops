@@ -7,7 +7,7 @@
 <h3 align="center">Cloud Engineer ☁️ | Problem Solver 🚀</h3>
 
 <p align="center">
-🎓 B.Tech in Computer Science <br>
+🎓 B.Tech in Computer Science (AI & DS)<br>
 🏫 Panipat Institute of Engineering and Technology <br>
 💡 Passionate about Cloud Computing, Backend Systems & Scalable Solutions
 </p>
