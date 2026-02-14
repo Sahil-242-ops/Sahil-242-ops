@@ -17,3 +17,19 @@ Passionate about building innovative solutions using AI, ML & Cloud.
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
 </a>
 </p>
+## 🛠 Tech Stack & Tools
+
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,kotlin" />
+</p>
+
+### 🌐 Web Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+</p>
+
+### 🤖 AI/ML
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
