@@ -57,7 +57,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/sahil-sahil-118561320" target="_blank">
+<a href="https://www.linkedin.com/in/sahil-118561320/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Sahil%20-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
