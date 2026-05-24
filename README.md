@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Sahil+Bansal;Cloud+Engineer+in+Progress+☁️;Problem+Solver+🚀;Tech+Enthusiast&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋,+I'm+Sahil;Cloud+Engineer+in+Progress+☁️;Problem+Solver+🚀;Tech+Enthusiast&center=true&width=600&height=45">
 </p>
 
-<h1 align="center">👋 Hi, I'm Sahil Bansal</h1>
+<h1 align="center">👋 Hi, I'm Sahil</h1>
 <h3 align="center">Cloud Engineer ☁️ | Problem Solver 🚀</h3>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sahil-sahil-118561320" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Bansal-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Sahil%20-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
